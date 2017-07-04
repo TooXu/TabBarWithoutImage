@@ -1,4 +1,4 @@
-#  HistoryWordsView
+#  TabBarWithoutImage
 
 纯文字tabBarController
 
